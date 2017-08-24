@@ -12,8 +12,9 @@ menu:
   ios: iOS
   android: Android
   rn: ReactNative
-  read: 阅读
-  life: 生活
+  php: PHP
+  faq: 问题记录
+  life: 感悟
   other: 其它
   categories: 分类
   tags: 标签

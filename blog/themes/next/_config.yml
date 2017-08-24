@@ -49,8 +49,8 @@ menu:
   ios: /categories/iOS
   android: /categories/Android
   rn: /categories/ReactNative
-  read: /categories/阅读
-  life: /categories/生活
+  php: /categories/PHP
+  faq: /categories/问题记录
   other: /categories/其它
   #archives: /archives/
   about: /about/
@@ -70,12 +70,13 @@ menu_icons:
   home: home
   about: user
   ios: tags
-  categories: th
-  schedule: calendar
+  android: th
+  rn: calendar
+  php: archive
   tags: tags
-  archives: archive
-  sitemap: sitemap
-  commonweal: heartbeat
+  faq: archive
+  life: sitemap
+  other: heartbeat
 
 
 
@@ -429,7 +430,7 @@ leancloud_visitors:
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
 busuanzi_count:
   # count values only if the other configs are false
-  enable: false
+  enable: true
   # custom uv span for the whole site
   site_uv: true
   site_uv_header: <i class="fa fa-user"></i>
@@ -452,7 +453,7 @@ busuanzi_count:
 
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: false
+baidu_push: true
 
 # Google Calendar
 # Share your recent schedule to others via calendar page
