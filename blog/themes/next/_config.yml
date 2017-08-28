@@ -46,12 +46,11 @@ index_with_subtitle: false
 menu:
   home: /
   #categories: /categories/
-  ios: /categories/iOS
-  android: /categories/Android
-  rn: /categories/ReactNative
+  mobile: /categories/移动端
+  wordpress: /categories/WordPress
+  vue: /categories/Vue
   php: /categories/PHP
   faq: /categories/问题记录
-  other: /categories/其它
   #archives: /archives/
   about: /about/
   #tags: /tags/
@@ -69,10 +68,10 @@ menu_icons:
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
   about: user
-  ios: tags
-  android: th
-  rn: calendar
+  mobile: tags
+  vue: calendar
   php: archive
+  WordPress: archive
   tags: tags
   faq: archive
   life: sitemap

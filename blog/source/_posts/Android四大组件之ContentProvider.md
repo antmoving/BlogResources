@@ -2,7 +2,7 @@
 title: Android四大组件之ContentProvider
 date: 2017-06-30 07:14:38
 tags:
-categories: Android
+categories: 移动端
 ---
 ContentProvider：为存储和获取数据提供统一的接口。可以在不同的应用程序之间共享数据。Android已经为常见的一些数据提供了默认的ContentProvider。
 
