@@ -48,7 +48,7 @@ menu:
   #categories: /categories/
   mobile: /categories/移动端
   wordpress: /categories/WordPress
-  vue: /categories/Vue
+  python: /categories/Python
   php: /categories/PHP
   faq: /categories/问题记录
   #archives: /archives/
@@ -69,9 +69,9 @@ menu_icons:
   home: home
   about: user
   mobile: tags
-  vue: calendar
+  python: calendar
   php: archive
-  WordPress: archive
+  wordpress: archive
   tags: tags
   faq: archive
   life: sitemap
